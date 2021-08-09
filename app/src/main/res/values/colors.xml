@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="border_grey">#dcdcdc</color>
+    <color name="transparent">#00000000</color>
+    <color name="red_pink">#fd2d55</color>
+    <color name="frag_label_grey">#a5a5a5</color>
+    <color name="artist_grey">#a4a4a4</color>
+    <color name="music_black">#252525</color>
+    <color name="title_black">#030303</color>
+    <color name="timeBar_grey">#bcc8c6</color>
+    <color name="time_grey">#818b8f</color>
+    <color name="playerMusic_black">#020202</color>
+    <color name="pink">#ec3063</color>
+
+</resources>
