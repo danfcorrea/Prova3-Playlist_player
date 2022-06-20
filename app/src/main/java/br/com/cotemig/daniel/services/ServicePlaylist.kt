@@ -5,6 +5,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface ServicePlaylist {
-    @GET("playlist/top10")
+    @GET("Playlist")
     fun getPlaylist(): Call<List<Playlist>>
 }

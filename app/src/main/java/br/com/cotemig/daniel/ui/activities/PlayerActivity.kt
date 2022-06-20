@@ -30,6 +30,7 @@ class PlayerActivity : AppCompatActivity() {
         name.setSelected(true)
         var artist = findViewById<TextView>(R.id.artistName)
         artist.text = music.artist
-
+        var duration = findViewById<TextView>(R.id.time)
+        duration.text = String.format("%d:%02d", music.duration/60, music.duration%60)
     }
 }
